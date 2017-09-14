@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Andrew Varnerin <andrew@varnerin.info>"]
 
 [dependencies]
+hmac = "0.4.2"
+sha-1 = "0.4.1"
